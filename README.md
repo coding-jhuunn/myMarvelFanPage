@@ -7,4 +7,4 @@ Skills Learned
 
    **Tools Used:** HTML & CSS
 
-   **Link:** https://github.com/coding-jhuunn/MarvelFanPage-HTML-CSSProj
+
