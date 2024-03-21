@@ -1,9 +1,9 @@
 # My Marvel Fan Page Projects ( First Project )
 
   Skills Learned:
-    * Implementing HTML for a good Web Strucutre
-    * Learning the basic fundametals of applying CSS to the web
-
+  
+    1. Implementing HTML for a good Web Strucutre
+    2. Learning the basic fundametals of applying CSS to the web
 
 
    **Tools Used:** HTML & CSS
